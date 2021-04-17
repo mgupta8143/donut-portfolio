@@ -1,0 +1,16 @@
+.donut-wrap {
+    font-family: serif;
+    width: fit-content;
+    height: fit-content;
+    background-color: black;
+    color:  #f1ee39;
+    font-size:10px;
+    white-space: pre;
+    letter-spacing: 5px;
+    line-spacing: 0px;
+}
+
+p {
+    margin: 0px;
+    padding: 0px;
+}

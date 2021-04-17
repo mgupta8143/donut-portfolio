@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Red+Hat+Display:500&display=swap');
+
+.landing-wrap {
+    color: white;
+    font-family: 'Red Hat Display', serif;
+    font-size: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.intro-wrap {
+    margin-right: 300px;
+}
