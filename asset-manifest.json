@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/donut-portfolio/static/css/main.074f122f.chunk.css",
+    "main.js": "/donut-portfolio/static/js/main.78c6006b.chunk.js",
+    "main.js.map": "/donut-portfolio/static/js/main.78c6006b.chunk.js.map",
+    "runtime-main.js": "/donut-portfolio/static/js/runtime-main.a7511152.js",
+    "runtime-main.js.map": "/donut-portfolio/static/js/runtime-main.a7511152.js.map",
+    "static/js/2.9bf70510.chunk.js": "/donut-portfolio/static/js/2.9bf70510.chunk.js",
+    "static/js/2.9bf70510.chunk.js.map": "/donut-portfolio/static/js/2.9bf70510.chunk.js.map",
+    "index.html": "/donut-portfolio/index.html",
+    "static/css/main.074f122f.chunk.css.map": "/donut-portfolio/static/css/main.074f122f.chunk.css.map",
+    "static/js/2.9bf70510.chunk.js.LICENSE.txt": "/donut-portfolio/static/js/2.9bf70510.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7511152.js",
+    "static/js/2.9bf70510.chunk.js",
+    "static/css/main.074f122f.chunk.css",
+    "static/js/main.78c6006b.chunk.js"
+  ]
+}
