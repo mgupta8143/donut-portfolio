@@ -21,3 +21,4 @@ Personal portfolio (currently in development)
 - Reddit!!! (https://www.vice.com/en/article/z4444w/how-reddit-got-huge-tons-of-fake-accounts--2)
 - SVM Kernel Trick https://www.byteofmath.com/support-vector-machines-and-the-kernel-trick/ (i actually wrote this lol)
 - SVM General (https://www.byteofmath.com/the-math-behind-support-vector-machines/) (this too) (the blog is dead though so it might be glitchy and things missing)
+- Blue leds O_O https://www.popsci.com/article/technology/why-blue-led-worth-nobel-prize/#:~:text=Engineers%20use%20a%20blue%20LED,fluorescent%20chemical%20in%20the%20bulb.&text=The%20previous%20red%20and%20green,they%20would%20emit%20light%20efficiently.
