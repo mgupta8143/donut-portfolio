@@ -13,4 +13,6 @@ Personal portfolio (currently in development)
 - Richard Hamming "You and Your Research": https://www.youtube.com/watch?v=a1zDuOPkMSw (super fascinating and helpful)
 - Richard Hamming The Art of Doing Science and Engineering http://worrydream.com/refs/Hamming-TheArtOfDoingScienceAndEngineering.pdf (boring but some lines stuck with me enough to recommend "the founder often sees their inventions differently from their followers", etc. etc.)
 - Generic Entrepreneurship Finance Books: Lean Startup, The Intelligent Investor (Great reads, but mostly common knowledge at this point)
-- 
+- Decent Topology Book https://www.maths.ed.ac.uk/~v1ranick/papers/seifthreng.pdf (personally, I feel like visual learning is better for topology)
+- Category Theory https://www.logicmatters.net/resources/pdfs/GentleIntro.pdf (literally one of the best intros I've read)
+- Abs Algebra: Artin's Algebra (super super super super epic <-- used in Harvard's Math 55 Course)
