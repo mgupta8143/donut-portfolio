@@ -16,3 +16,4 @@ Personal portfolio (currently in development)
 - Decent Topology Book https://www.maths.ed.ac.uk/~v1ranick/papers/seifthreng.pdf (personally, I feel like visual learning is better for topology)
 - Category Theory https://www.logicmatters.net/resources/pdfs/GentleIntro.pdf (literally one of the best intros I've read)
 - Abs Algebra: Artin's Algebra (super super super super epic <-- used in Harvard's Math 55 Course)
+- Infinity-Norm (and less often talked about -infinity-norm): Cool way to see limits in math and computer science blending
