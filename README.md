@@ -19,3 +19,4 @@ Personal portfolio (currently in development)
 - Infinity-Norm (and less often talked about -infinity-norm): Cool way to see limits in math and computer science blending
 - Discord!!! (https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7#.dzqq7q4o7)
 - Reddit!!! (https://www.vice.com/en/article/z4444w/how-reddit-got-huge-tons-of-fake-accounts--2)
+- SVM https://www.byteofmath.com/support-vector-machines-and-the-kernel-trick/ (i actually wrote this lol)
