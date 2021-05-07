@@ -11,4 +11,6 @@ Personal portfolio (currently in development)
 - Rich Dad Poor Dad http://fop86.com/Rich%20Dad%20Poor%20Dad/Rich%20Dad%20Poor%20Dad.pdf
 - Frankenstein https://www.gutenberg.org/files/84/84-h/84-h.htm  (one of my favorite sci-fi books/cool to think about in terms of philosophy and A.I)
 - Richard Hamming "You and Your Research": https://www.youtube.com/watch?v=a1zDuOPkMSw (super fascinating and helpful)
-- Richard Hamming The Art of Doing Science and Engineering http://worrydream.com/refs/Hamming-TheArtOfDoingScienceAndEngineering.pdf (must admit this text was boring but some lines have stuck with me enough to keep it on the list "the founder often sees their inventions differently from their followers", etc. etc.)
+- Richard Hamming The Art of Doing Science and Engineering http://worrydream.com/refs/Hamming-TheArtOfDoingScienceAndEngineering.pdf (boring but some lines stuck with me enough to recommend "the founder often sees their inventions differently from their followers", etc. etc.)
+- Generic Entrepreneurship Finance Books: Lean Startup, The Intelligent Investor (Great reads, but mostly common knowledge at this point)
+- 
