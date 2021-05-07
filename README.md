@@ -17,3 +17,5 @@ Personal portfolio (currently in development)
 - Category Theory https://www.logicmatters.net/resources/pdfs/GentleIntro.pdf (literally one of the best intros I've read)
 - Abs Algebra: Artin's Algebra (super super super super epic <-- used in Harvard's Math 55 Course)
 - Infinity-Norm (and less often talked about -infinity-norm): Cool way to see limits in math and computer science blending
+- Discord!!! (https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7#.dzqq7q4o7)
+- Reddit!!! (https://www.vice.com/en/article/z4444w/how-reddit-got-huge-tons-of-fake-accounts--2)
