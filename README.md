@@ -25,3 +25,4 @@ Personal portfolio (currently in development)
 - Blue leds O_O https://www.popsci.com/article/technology/why-blue-led-worth-nobel-prize/#:~:text=Engineers%20use%20a%20blue%20LED,fluorescent%20chemical%20in%20the%20bulb.&text=The%20previous%20red%20and%20green,they%20would%20emit%20light%20efficiently.
 - Minecraft OptiFine: http://optifog.blogspot.com/2011/08/understanding-minecraft-performance.html?m=1
 - Percolation and Intelligent Life: http://www.geoffreylandis.com/percolation.htp (legit blew my mind thinking of interstellar colonization as a percolation problem)(people are so clever!!!)
+- Visualizing Euclidean n-space: https://ned.ipac.caltech.edu/level5/Abbott/paper.pdf (not sure how I feel about this book cuz I disagree with some of his assumptions, granted the book was made a while ago)
