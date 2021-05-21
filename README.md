@@ -26,3 +26,4 @@ Personal portfolio (currently in development)
 - Minecraft OptiFine: http://optifog.blogspot.com/2011/08/understanding-minecraft-performance.html?m=1
 - Percolation and Intelligent Life: http://www.geoffreylandis.com/percolation.htp (legit blew my mind thinking of interstellar colonization as a percolation problem)(people are so clever!!!)
 - Visualizing Euclidean n-space: https://ned.ipac.caltech.edu/level5/Abbott/paper.pdf (not sure how I feel about this book cuz I disagree with some of his assumptions, granted the book was made a while ago)
+- Interesting Story Video: https://www.youtube.com/watch?v=xnpyMomU59s
