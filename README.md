@@ -27,3 +27,4 @@ Personal portfolio (currently in development)
 - Percolation and Intelligent Life: http://www.geoffreylandis.com/percolation.htp (legit blew my mind thinking of interstellar colonization as a percolation problem)(people are so clever!!!)
 - Visualizing Euclidean n-space: https://ned.ipac.caltech.edu/level5/Abbott/paper.pdf (not sure how I feel about this book cuz I disagree with some of his assumptions, granted the book was made a while ago)
 - Interesting Story Video: https://www.youtube.com/watch?v=xnpyMomU59s
+- Casorati and the Casorati Matrix (Wronskian Linear Difference Equation): https://en.wikipedia.org/wiki/Felice_Casorati_(mathematician) (really needs a wikipedia page for the Casorati matrix, surprised there isn't one considering its importance in discrete signal theory)
